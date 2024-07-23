@@ -1,0 +1,10 @@
+HUGGING_TOKKEN = "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"
+#BASE_MODEL = "MLP-KTLim/llama-3-Korean-Bllossom-8B-4bit"
+#MLP-KTLim/llama-3-Korean-Bllossom-8B-4bit
+BASE_MODEL = "MarkrAI/RAG-KO-Mixtral-7Bx2-v2.1"
+DATASET = "data"
+FAST_EMBED_MODEL_NAME = "BAAI/bge-small-en-v1.5"
+#FAST_EMBED_MODEL_NAME = "bespin-global/klue-sroberta-base-continue-learning-by-mnr"
+SYSTEM_PROMPT = "You are a Q&A assistant. Summarize the questions and answer accurately in Korean based on the given instructions and context."
+QUERY_WRAPPER_PROMPT = "<|USER|>{query_str}<|ASSISTANT|>"
+ENCODER_MODEL = "cross-encoder/ms-marco-MiniLM-L-2-v2"
