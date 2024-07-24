@@ -4,3 +4,4 @@ transformers
 langchain
 langchain-community
 langchain-huggingface
+accelerate
