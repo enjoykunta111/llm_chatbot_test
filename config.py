@@ -1,4 +1,4 @@
-HUGGING_TOKKEN = "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"
+HUGGING_TOKKEN = ""
 #BASE_MODEL = "MLP-KTLim/llama-3-Korean-Bllossom-8B-4bit"
 #MLP-KTLim/llama-3-Korean-Bllossom-8B-4bit
 BASE_MODEL = "MarkrAI/RAG-KO-Mixtral-7Bx2-v2.1"
